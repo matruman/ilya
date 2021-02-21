@@ -2,3 +2,8 @@ Ruslan says hello to Ilya    !
 Ilya says "I love a milk" to Ruslan
 tata
 
+
+
+static public String NaLyci (){
+return "На лицi"
+}
