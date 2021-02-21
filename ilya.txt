@@ -1,4 +1,4 @@
 Ruslan says hello to Ilya    !
-Ilya says "I love a milk" to Ruslan
+Ilya says "I love a milk and ..." to Ruslan
 tata
 
